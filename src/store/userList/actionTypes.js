@@ -1,0 +1,3 @@
+export const GET_USER_LIST = 'GET_USER_LIST';
+export const ON_USER_LIST_RESPONSE = 'ON_USER_LIST_RESPONSE';
+export const ON_USER_LIST_FAIL = 'ON_USER_LIST_FAIL';
